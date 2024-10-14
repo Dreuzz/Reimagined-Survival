@@ -1,11 +1,13 @@
-Mods in the Modpack:
+  ## Mods in the Modpack:
 
 - [Subtle Effects](https://modrinth.com/mod/subtle-effects) [1.0.0] - **Selfmade port to 1.21**
 - [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) [0.10.0] - **Selfmade port to 1.21**
 - [Inmis](https://github.com/Dreuzz/inmis) [2.8.1-1.21] - **Selfmade port to 1.21**
 - [InmisAddon](https://github.com/Dreuzz/InmisAddon) [1.0.4] - **Selfmade port to 1.21**  
 - [Draggable Lists](https://github.com/mrmelon54/draggable_lists/pull/24) [1.0.5] - **Selfmade port to 1.21**
----
+
+<br>
+
 - [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.6.7]
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) [1.2.5]
 - [AdoraBuild: Structures](https://modrinth.com/mod/rYlnn25U) [2.8.0]
@@ -116,9 +118,9 @@ Mods in the Modpack:
 - [Right Click Harvest](https://modrinth.com/mod/Cnejf5xM) [4.3.1+1.21]
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) [1.0.10]
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.5]
-- [SeasonHUD](https://modrinth.com/mod/iDiIfZLX) [1.10.7] **Disabled by default**
+- ~~[SeasonHUD](https://modrinth.com/mod/iDiIfZLX) [1.10.7]~~ **Disabled by default**
 - [Separated Leaves](https://modrinth.com/mod/xEu0FTVG) [2.5.0]
-- [SereneSeasons](https://modrinth.com/mod/e0bNACJD) [10.0.0.6] **Disabled by default**
+- ~~[SereneSeasons](https://modrinth.com/mod/e0bNACJD) [10.0.0.6]~~ **Disabled by default**
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) [5.1.1+1.21]
 - [Simple RPC](https://modrinth.com/mod/ObXSoyrn) [3.3.3]
 - [Smooth Scrolling Refurbished](https://modrinth.com/mod/trr0scVt) [1.1.4]
@@ -138,7 +140,6 @@ Mods in the Modpack:
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) [2.4.1a]
 - [Telepistons](https://modrinth.com/mod/23PBx0DP) [1.1.3]
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2.5.5]
-- [Third Person Maps](https://modrinth.com/mod/H0x6CMOI) [1.5.3]
 - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) [1.13.2]
 - [Trade Cycling](https://modrinth.com/mod/qpPoAL6m) [1.21.1-1.0.14]
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) [3.10.0]
@@ -154,5 +155,15 @@ Mods in the Modpack:
 - [idwtialsimmoedm](https://modrinth.com/mod/ad89WlWh) [0.3.2+1.21]
 - [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.14+1.21]
 - [qraftyfied](https://modrinth.com/mod/ibnDR6oc) [9.1.1]
-- [root project 'Prism'](https://modrinth.com/mod/1OE8wbN0) [1.0.9]
+- [Prism](https://modrinth.com/mod/1OE8wbN0) [1.0.9]
 - [spark](https://modrinth.com/mod/l6YH9Als) [1.10.109]
+  
+## Resourcepacks used:
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) [1.9.2]
+- [Vanilla Experience+](https://modrinth.com/resourcepack/vanilla-exp) [/]
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) [3.0.1]
+- [Better Leaves](https://modrinth.com/resourcepack/betterleaves) [1.6]
+
+## Shaderpack used:
+
+- [Photon Shader](https://modrinth.com/shader/photon-shader) [1.0a]
