@@ -1,10 +1,10 @@
 Mods in the Modpack:
 
-- [Subtle Effects](https://modrinth.com/mod/subtle-effects) [1.0.0] **!!Selfmade port to 1.21!!**
-- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) [0.10.0] **!!Selfmade port to 1.21!!**
-- [Inmis](https://github.com/Dreuzz/inmis) [2.8.1-1.21] **!!Selfmade port to 1.21!!**
-- [InmisAddon](https://github.com/Dreuzz/InmisAddon) [1.0.4] **!!Selfmade port to 1.21!!**  
-- [Draggable Lists](https://github.com/mrmelon54/draggable_lists/pull/24) [1.0.5] **!!Selfmade port to 1.21!!**
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects) [1.0.0] **Selfmade port to 1.21**
+- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) [0.10.0] **Selfmade port to 1.21**
+- [Inmis](https://github.com/Dreuzz/inmis) [2.8.1-1.21] **Selfmade port to 1.21**
+- [InmisAddon](https://github.com/Dreuzz/InmisAddon) [1.0.4] **Selfmade port to 1.21**  
+- [Draggable Lists](https://github.com/mrmelon54/draggable_lists/pull/24) [1.0.5] **Selfmade port to 1.21**
 ---
 - [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.6.7]
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) [1.2.5]
