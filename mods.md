@@ -157,6 +157,9 @@
 - [qraftyfied](https://modrinth.com/mod/ibnDR6oc) [9.1.1]
 - [Prism](https://modrinth.com/mod/1OE8wbN0) [1.0.9]
 - [spark](https://modrinth.com/mod/l6YH9Als) [1.10.109]
+
+## Datapacks used:
+- [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) [1.4.24b]
   
 ## Resourcepacks used:
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) [1.9.2]
