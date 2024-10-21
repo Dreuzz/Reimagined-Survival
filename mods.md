@@ -37,7 +37,7 @@
 - [Cloth Config v15](https://modrinth.com/mod/9s6osm5g) [15.0.140]
 - [Collective](https://modrinth.com/mod/e0M1UDsY) [7.84]
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9.0.3+1.21.1]
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0.2.0+alpha.11.109+1.21]
+- [CCME](https://modrinth.com/mod/VSNURh3q) [0.2.0+alpha.11.109+1.21]
 - [Connectible Chains](https://modrinth.com/mod/ykSfIgTw) [2.4.2+1.21.1]
 - [Continuity](https://modrinth.com/mod/1IjD5062) [3.0.0-beta.5+1.21]
 - [CraterLib](https://modrinth.com/mod/Nn8Wasaq) [2.1.1]
