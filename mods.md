@@ -113,7 +113,6 @@
 - [Music Sync](https://modrinth.com/mod/oa0DLzIW) [1.3]
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) [2.3.0+mc1.21-1.21.1]
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1.8.1]
-
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) [0.4.2]
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2.3.0-beta.6+1.21]
 - [Packet Fixer](https://modrinth.com/mod/c7m1mi73) [1.4.2]
